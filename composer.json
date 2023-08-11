@@ -1,0 +1,20 @@
+{
+    "name": "inovartecnologia/object-values",
+    "description": "Object Values em PHP para representar valores usuais no Brasil.",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rodrigo",
+            "email": "rodrigo@inovartecnologia.tech"
+        }
+    ],
+    "require": {
+        "php": "^8.1|^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "InovarTecnologia\\ObjectValues\\": "src/"
+        }
+    }
+}
