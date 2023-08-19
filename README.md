@@ -5,12 +5,21 @@
 Object Values em PHP para representar valores usuais no Brasil.
 
 ## Requisitos
+
 - PHP 8.1|8.2
 
 ## Instalação
+
 ```bash
 composer require inovartecnologia/object-values
 ```
 
+## Valores
+
+- Cpf
+- Cnpj
+- NumeroDocumento (Cpf ou Cnpj)
+
 ## Licença
+
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
