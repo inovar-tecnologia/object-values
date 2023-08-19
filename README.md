@@ -19,6 +19,7 @@ composer require inovartecnologia/object-values
 - Cpf
 - Cnpj
 - NumeroDocumento (Cpf ou Cnpj)
+- Cnh
 
 ## Licença
 
